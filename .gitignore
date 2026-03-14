@@ -14,10 +14,8 @@ downloads/*
 !downloads/.gitkeep
 
 # Environment variables
-.env
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -33,3 +31,5 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+config.bat
+node_modules

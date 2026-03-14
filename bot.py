@@ -14,6 +14,10 @@ Optional: Send TWO photos in one message (album) — the second
 photo will appear as a circular inset in the top-right corner.
 """
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import re
 import io
 import asyncio
